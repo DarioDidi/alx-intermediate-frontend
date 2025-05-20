@@ -1,0 +1,7 @@
+Linux installation:
+	$ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+Exit the terminal using the exit command then reopen it.
+
+Install SASS by using the following command if you have node installed:
+	npm install sass -v 3.7.4
+

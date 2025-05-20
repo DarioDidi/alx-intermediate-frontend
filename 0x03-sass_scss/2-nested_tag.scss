@@ -1,0 +1,12 @@
+$zero_marg: 0px;
+
+$p_margin: 10px;
+
+body {
+  margin: $zero_marg;
+  padding: $zero_marg;
+
+  p {
+    margin: $p_margin;
+  }
+}
